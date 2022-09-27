@@ -1,0 +1,72 @@
+{
+  "creds": {
+    "noiseKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "mEqyezqvLtjaMi8OzqyhbrNdtiUgVGBIsaTU1avQ1l8="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "Hu7pj7O1DPKVK5jTvnR54i802TSwzNN8bUbG9+SmpCk="
+      }
+    },
+    "signedIdentityKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "uIR30UgnOi6TxdxLoUaGcLQ3HdnSMNyTZNn2OlTBMFc="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "V/8W2g83VBlNQ3hnJbwegE0CHI9aIBN3rbXlvMjkEEk="
+      }
+    },
+    "signedPreKey": {
+      "keyPair": {
+        "private": {
+          "type": "Buffer",
+          "data": "mFcQeBnsdLSJCjxsfYRW6Izu7b+Crx7kahyLEKShsUw="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "yWkpIYALi9CW6LOwzNAy9LC8fp7/tFnIdzNMEVyIvEc="
+        }
+      },
+      "signature": {
+        "type": "Buffer",
+        "data": "KhinaqgiecGmglyIThPqir9O8+wcC+H2gL934zpiNJhbHoNJrT88YsSG/gaH4PvM0Pucotua7HBAQ2SO8F+ljA=="
+      },
+      "keyId": 1
+    },
+    "registrationId": 195,
+    "advSecretKey": "xcL6sUnLCwBDe1fSmHB838qwxWf4SjOQa/DASS/fqhg=",
+    "processedHistoryMessages": [],
+    "nextPreKeyId": 1,
+    "firstUnuploadedPreKeyId": 1,
+    "accountSettings": {
+      "unarchiveChats": false
+    },
+    "account": {
+      "details": "CPTPgFAQ6LHLmQYYAQ==",
+      "accountSignatureKey": "5ET9IK6UsL7lrd/vdNUHnvdQCVVIkvlW2b/agZKEX3w=",
+      "accountSignature": "OWozPju81+cU7fMo7NLy/2mBYXDCiD9iwPik69fE9T6lYQqzuWVc7Klu/2ql6bFhU0+q57V9Lb49fVFdTB4wAw==",
+      "deviceSignature": "CvTuQXKDVYE+Jf23Lof4zTxWbHWvPtY4tK0jmDKUcz1GRDtVsTr1HMe6ESDgMZ0vTsvIDlCTfM7930rg1lY6gg=="
+    },
+    "me": {
+      "id": "6283891956663:10@s.whatsapp.net"
+    },
+    "signalIdentities": [
+      {
+        "identifier": {
+          "name": "6283891956663:10@s.whatsapp.net",
+          "deviceId": 0
+        },
+        "identifierKey": {
+          "type": "Buffer",
+          "data": "BeRE/SCulLC+5a3f73TVB573UAlVSJL5Vtm/2oGShF98"
+        }
+      }
+    ],
+    "platform": "android"
+  },
+  "keys": {}
+}
